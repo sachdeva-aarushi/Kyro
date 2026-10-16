@@ -1,6 +1,6 @@
-# HealthVet
+# Kyro
 
-**HealthVet is a proposed healthcare vendor intelligence platform for hospitals and healthcare organizations in India.** It aims to help procurement and technical teams organize evidence and assess healthcare technology vendors in their hospital-specific context.
+**Kyro is a proposed healthcare vendor intelligence platform for hospitals and healthcare organizations in India.** It aims to help procurement and technical teams organize evidence and assess healthcare technology vendors in their hospital-specific context.
 
 > **Status:** Initial documentation only. Capabilities and architecture below are proposals, not implemented functionality. No regulatory approval, certification, hospital deployment, customer, commercial validation, or performance result is claimed.
 
